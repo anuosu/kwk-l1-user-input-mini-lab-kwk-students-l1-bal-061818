@@ -15,7 +15,7 @@ nights = gets.chomp.capitalize
 
 # Lastly, puts it all back by interpolating these values in a string.
 
-puts "It will be located at #{location}"
+puts "It will be located at #{stay}"
 puts "I would like to eat #{eat}" 
 puts "I will spend #{nights} nights"
 end
